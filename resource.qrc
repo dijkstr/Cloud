@@ -1,0 +1,38 @@
+<RCC>
+<qresource>
+	<file>images/back.png</file>
+	<file>images/clear.png</file>
+	<file>images/confirm.png</file>
+	<file>images/conveylist.png</file>
+	<file>images/delete.png</file>
+	<file>images/download.png</file>
+	<file>images/download_icon.png</file>
+	<file>images/enter.png</file>
+	<file>images/filesystem.png</file>
+	<file>images/folder.png</file>
+	<file>images/forward.png</file>
+	<file>images/headportrait.png</file>
+	<file>images/home.png</file>
+	<file>images/home_icon.png</file>
+	<file>images/login.png</file>
+	<file>images/login_success.png</file>
+	<file>images/mode.png</file>
+	<file>images/movies.png</file>
+	<file>images/new.png</file>
+	<file>images/newfolder.png</file>
+	<file>images/pictures.png</file>
+	<file>images/recyclebin.png</file>
+	<file>images/refresh.png</file>
+	<file>images/register.png</file>
+	<file>images/safebox.png</file>
+	<file>images/upload.png</file>
+	<file>images/uploadhead.png</file>
+	<file>images/uploadhead_icon.png</file>
+	<file>images/words.png</file>
+	<file>images/yes.png</file>
+	<file>images/yunbeifen.png</file>
+	<file>images/yuncunchu.png</file>
+	<file>images/yunlogo.png</file>
+	<file>images/yunpan.png</file>
+</qresource>
+</RCC>
